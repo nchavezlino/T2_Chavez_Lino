@@ -13,3 +13,7 @@ Repositorio Git local de un proyecto Java/Maven creado en Eclipse. Su finalidad 
 - **Evaluación:** T2 - Git y GitHub (Pregunta 01)
 - **Curso:** Lenguaje de Programación II
 - **Fecha:** 06/10/2026
+
+## Control de cambios
+
+En esta etapa se modificaron README.md y pom.xml, y se creo observaciones.txt, para practicar diff, staging, retiro del staging y recuperacion de archivos con Git.

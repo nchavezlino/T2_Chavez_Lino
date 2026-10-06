@@ -1,0 +1,1 @@
+Observaciones T2: practica de control de cambios con Git (diff, add, reset, restore y commit).
