@@ -17,3 +17,8 @@ Repositorio Git local de un proyecto Java/Maven creado en Eclipse. Su finalidad 
 ## Control de cambios
 
 En esta etapa se modificaron README.md y pom.xml, y se creo observaciones.txt, para practicar diff, staging, retiro del staging y recuperacion de archivos con Git.
+
+## Gestión de ramas
+
+- **Rama utilizada:** feature-chavez
+- **Cambio realizado:** se creo la clase ControlVersion_Chavez.java en src/main/java, desarrollada de forma independiente y luego fusionada a main.
