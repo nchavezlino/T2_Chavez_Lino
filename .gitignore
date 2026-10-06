@@ -1,0 +1,14 @@
+# Maven
+target/
+
+# Eclipse
+.settings/
+.classpath
+.project
+bin/
+
+# Otros archivos que no son código fuente
+*.class
+*.log
+.DS_Store
+Thumbs.db
